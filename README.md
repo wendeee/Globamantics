@@ -1,0 +1,2 @@
+# Globamantics
+NodeJS web application
